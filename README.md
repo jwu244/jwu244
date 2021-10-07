@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jwu244, but you can call me Jess
-- 👀 I’m interested in Product Design, true crime, Genshin Impact, and K-R&B/Hip-Hop!
-- 🌱 I’m currently learning JavaScript and how to skateboard
-- 💞️ I’m looking to collaborate on UI/UX and web development projects!
-- 📫 How to reach me: <jwu98097@usc.edu> && <jessicawu244@gmail.com>
+- 👋 hi! im @jwu244, but you can call me jess (or jwu if you want to be friends)
+- 👀 interested in Product Design, true crime, Genshin Impact, and K-R&B/Hip-Hop!
+- 🌱 currently learning JavaScript and how to skateboard
+- 💞️ looking to collaborate on UI/UX and front-end web dev projects!
+- 📫 how to reach me: <jwu98097@usc.edu> || <jessicawu244@gmail.com>
 
 <!---
 jwu244/jwu244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
